@@ -19,7 +19,7 @@
   <img align="center" alt="Lui-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
   
-  ##
+  
  
 <div>
   <a href="https://www.linkedin.com/in/luirichard-silva-lima-b90b44213/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
