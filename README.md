@@ -1,4 +1,4 @@
-## Olá, muito prazer! Eu me Lui Richard ⚡
+## Olá, muito prazer! Eu me Lui Richard 👨🏽‍💻
 
 - ⚡ Me chamo Lui Richard, tenho 19 anos e sou um jovem entusiasta por tecnologia. Nasci e cresci no estado do Ceará, onde me encontro residindo até os dias atuais. Sou formado em Técnico em Informática pela EEEP Antonia Nedina Onofre De Paiva e atualmente faço faculdade de Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará.
 
