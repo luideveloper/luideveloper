@@ -12,4 +12,6 @@
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luideveloper&layout=compact&langs_count=16&theme=dracula"/>
 <div>
  
+ ![Snake animation](https://github.com/luideveloper/luideveloper/blob/output/github-contribution-grid-snake.svg)
+ 
   
