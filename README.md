@@ -5,7 +5,7 @@
 
 - 🖥️ No ramo da programação tenho maior experiência na área do desenvolvimento front-end, com a criação de sites institucionais, sites para lançamentos entre outros. Hoje ajudo várias pessoas e empresas, que buscam se destacarem no mercado com um visual mais atrativo - para assim, alcançarem seus objetivos.
 
-- 📫 Get to know me better on <a href="https://www.linkedin.com/in/luirichardsilvalima/">Linkedin</a> or <a href="www.luirichard.com">luirichard.com</a>
+- 📫 Get to know me better on <a href="https://www.linkedin.com/in/luirichardsilvalima/">Linkedin</a> or <a href="https://www.luirichard.com">luirichard.com</a>
 
 #
 
