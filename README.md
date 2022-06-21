@@ -1,4 +1,6 @@
 
+[![](https://visitcount.itsvg.in/api?id=luideveloper&icon=8&color=3)](https://visitcount.itsvg.in)
+
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, I'm Lui Richard</h2>
 
 - 📍 My name is Lui Richard, I'm 19 years old and I'm a young man enthusiastic about technology. I have a degree in Computer Technician from EEEP Antonia Nedina Onofre de Paiva and I am currently studying Information Systems at the Federal Institute of Education, Science and Technology of Ceará.
