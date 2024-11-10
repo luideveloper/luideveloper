@@ -1,31 +1,12 @@
-<h2 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, I'm Lui Richard</h2>
+<h2 align="left">Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, eu sou Lui Richard</h2>
 
-- 📍 My name is Lui Richard, I'm 19 years old and I'm a young man enthusiastic about technology. I have a degree in Computer Technician from EEEP Antonia Nedina Onofre de Paiva and I am currently studying Information Systems at the Federal Institute of Education, Science and Technology of Ceará.
+- 📍 Entusiasta em tecnologia sempre em busca de novos desafios e descobertas. Possuo formação técnica em tecnologia e atualmente estou cursando faculdade de Sistemas de Informação no Instituto Federal do Ceará. Gosto de transformar ideias em código, de resolver problemas com criatividade e de colaborar em projetos que fazem a diferença!
 
-- 🖥️ In the programming field, I have more experience in front-end development, with the creation of institutional sites, launch sites, among others. I also work as a Graphic Designer, developing flyers for social media and print.
-
-- 📫 Get to know me better on <a href="https://www.linkedin.com/in/luirichardsilvalima/">Linkedin</a> or <a href="https://www.luirichard.com">luirichard.com</a>
+- 📫 Conheça-me melhor no <a href="https://www.linkedin.com/in/luirichardsilvalima/">Linkedin</a> ou entre em contato em: luirichard3@gmail.com
 
 #
-
-### 🛠 Languages and Tools:
-
-<br>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop&logoColor=0006ff)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator&logoColor=d96100)&nbsp;
-
-##
  
-### Connect with me:
+### Me encontre em:
  
 <p align="left">
   <a href="https://www.linkedin.com/in/luirichardsilvalima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,5 +15,3 @@
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@luirichard.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
- 
- ![Snake animation](https://github.com/luideveloper/luideveloper/blob/output/github-contribution-grid-snake.svg)
