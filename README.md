@@ -1,28 +1,27 @@
-### Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, eu sou Lui Richard
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">, I'm Lui Richard
 
 ```yaml
-🎓 Formação: Técnico em Informática | Sistemas de Informação - IFCE
-🚀 Foco: React & Automação/N8N
-🏍️ Hobby: MotoCasal & Aventura
+🎓 Education: Computer Technician | Information Systems - IFCE
+🚀 Focus: React & Automation/N8N
+🏍️ Hobby: MotoCouple & Adventure
 ```
 
 ---
 
-### 🚀 Sobre Mim
+### 🚀 About Me
+I'm a tech enthusiast, always seeking challenges and new discoveries. With both technical and academic experience in software development, I enjoy turning ideas into code and solving problems creatively. I believe in the power of technology to make a positive impact on society, and I'm always eager to learn and share knowledge!
 
-Sou um entusiasta da tecnologia, sempre em busca de desafios e novas descobertas. Com experiência técnica e acadêmica em desenvolvimento de software, gosto de transformar ideias em código e resolver problemas com criatividade. Acredito no poder da tecnologia para impactar positivamente a sociedade e estou sempre disposto a aprender e compartilhar conhecimento!
-
-📫 **Vamos nos conectar?** Me encontre no [LinkedIn](https://www.linkedin.com/in/luirichardsilvalima/) ou envie um e-mail para: **luirichard3@gmail.com**
+📫 Let’s connect! Find me on LinkedIn or send me an email at: luirichard3@gmail.com
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,tailwind,python,fastapi,git,firebase,figma" />
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luideveloper&show_icons=true&theme=radical"/>
@@ -31,7 +30,7 @@ Sou um entusiasta da tecnologia, sempre em busca de desafios e novas descobertas
 
 ---
 
-### 🌍 Me Encontre Aqui:
+### 🌍 Find Me Here
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luirichardsilvalima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
